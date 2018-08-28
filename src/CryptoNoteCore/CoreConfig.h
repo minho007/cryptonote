@@ -8,7 +8,7 @@
 
 #include <boost/program_options.hpp>
 
-namespace CryptoNote {Yoona
+namespace CryptoNote {
 
 class CoreConfig {
 public:
